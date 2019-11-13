@@ -1,0 +1,20 @@
+Bienvenue à votre clé USB JA Canada
+
+Configuration minimale requise:
+Windows: 	Win 7, 8 ou 10
+		Firefox 30+, Chrome 30+ ou IE 9+
+Mac: 		MacOS X 10.6+
+		Firefox 30+, Chrome 30+, Safari 5.1+
+Linux: 		Ubuntu 14.4+
+		Firefox 30+, Chrome 30+, Opera 12+
+Toutes les plates-formes: Javascript activé, Flash 11+, h.264 / x.264 codec vidéo
+
+Certains éléments, tels que les liens vers des ressources externes, ne seront accessibles qu'avec l'accès à Internet. Si aucun accès à Internet n'est disponible dans la salle de classe, veuillez ignorer ce contenu.
+
+Pour accéder aux documents sur cette clé:
+
+1 - Double-cliquez sur le fichier 'ClickHere-CliquezIci.html' trouvé dans le dossier racine. Cela devrait ouvrir une page Web graphique dans une nouvelle fenêtre de navigateur. Le menu est la porte d'entrée des programmes numériques de JA Canada.
+
+CONSEIL: Dans la plupart des navigateurs Web, en appuyant sur F11, la présentation devient plein écran. En appuyant de nouveau sur F11, la présentation revient à sa taille d'origine.
+
+Merci de votre collaboration avec JA. Nous espérons que vous avez une belle expérience!
